@@ -1,4 +1,4 @@
 #/bin/bash
 
 # @reboot PATH/boot.sh
-chromium-browser https://foo.kodstugan.io
+chromium-browser --start-maximized https://foo.kodstugan.io
